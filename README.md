@@ -1,8 +1,10 @@
-# 🐍 Python Lists Practice
+# 🐍 Python Data Structures
 
-> Hands-on practice with Python Lists, focusing on the most important operations and data-processing techniques.
+> Hands-on practice with Python Data Structures, focusing on important concepts through coding exercises and practical examples.
 
 ## 📚 Topics Covered
+
+### ✅ Lists
 
 * Creating Lists
 * Indexing & Negative Indexing
@@ -12,38 +14,46 @@
 * `remove()`, `pop()`, `clear()`
 * `index()` & `count()`
 * `sort()`, `reverse()`, `copy()`
-* Membership Operators (`in`, `not in`)
+* Membership Operators
 * Loops with Lists
-* Finding Highest & Lowest Values
-* Filtering Lists
+* Filtering
 * List Comprehension
 * `any()` & `all()`
-* Removing Duplicates using `set()`
+* Removing Duplicates
+
+### ✅ Tuples
+
+* Creating Tuples
+* Tuple Indexing & Slicing
+* `count()` & `index()`
+* Tuple Unpacking
+* Tuple Immutability
+* List → Tuple Conversion
+* Loops with Tuples
+* `len()`, `min()`, `max()`, `sum()`
 
 ## 🧪 Practice
 
-Worked with **marks, numbers, and cities** to practice list operations, filtering, searching, calculations, and transformations.
+Worked with **marks, numbers, cities, and student data** to practice storing, accessing, modifying, filtering, and processing collections.
 
 ## 📊 Data Analyst Connection
 
-These fundamentals prepare for:
-
 ```text
-Lists
-  ↓
-Tuples
-  ↓
-Dictionaries
-  ↓
-Sets
+Lists       ✅
+   ↓
+Tuples      ✅
+   ↓
+Dictionaries 🔄
+   ↓
+Sets        ⏳
 ```
 
 ## 🚀 Progress
 
 ```text
 Lists              ✅ Completed
-Tuples             🔄 In Progress
-Dictionaries       ⏳ Next
+Tuples             ✅ Completed
+Dictionaries       🔄 Next
 Sets               ⏳ Upcoming
 ```
 
