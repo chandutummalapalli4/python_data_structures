@@ -32,20 +32,34 @@
 * Loops with Tuples
 * `len()`, `min()`, `max()`, `sum()`
 
+### ✅ Dictionaries
+
+* Creating Dictionaries
+* Accessing Values
+* Adding & Updating Data
+* `pop()`, `del`, `clear()`
+* Membership Operators
+* `keys()`, `values()`, `items()`
+* `get()`
+* Dictionary Loops
+* Nested Dictionaries
+* Nested Dictionary Access & Updates
+* Nested Dictionary Loops
+
 ## 🧪 Practice
 
-Worked with **marks, numbers, cities, and student data** to practice storing, accessing, modifying, filtering, and processing collections.
+Worked with **marks, numbers, cities, and student data** to practice storing, accessing, updating, filtering, and processing collections.
 
 ## 📊 Data Analyst Connection
 
 ```text
-Lists       ✅
+Lists          ✅
    ↓
-Tuples      ✅
+Tuples         ✅
    ↓
-Dictionaries 🔄
+Dictionaries   ✅
    ↓
-Sets        ⏳
+Sets           ⏳
 ```
 
 ## 🚀 Progress
@@ -53,8 +67,8 @@ Sets        ⏳
 ```text
 Lists              ✅ Completed
 Tuples             ✅ Completed
-Dictionaries       🔄 Next
-Sets               ⏳ Upcoming
+Dictionaries       ✅ Completed
+Sets               🔄 Next
 ```
 
 ## 👨‍💻 Author
