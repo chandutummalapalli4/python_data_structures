@@ -46,9 +46,27 @@
 * Nested Dictionary Access & Updates
 * Nested Dictionary Loops
 
+### ✅ Sets
+
+* Creating Sets
+* Adding Elements with `add()`
+* Removing Elements with `remove()`
+* Safe Removal with `discard()`
+* Removing Elements with `pop()`
+* Clearing Sets with `clear()`
+* Membership Operators
+* `union()`
+* `intersection()`
+* `difference()`
+* `symmetric_difference()`
+* Set Operators: `|`, `&`, `-`, `^`
+* Working with Multiple Sets
+* Set-Based Data Processing
+* Solving Real-World Set Problems
+
 ## 🧪 Practice
 
-Worked with **marks, numbers, cities, and student data** to practice storing, accessing, updating, filtering, and processing collections.
+Worked with **marks, numbers, cities, student data, skills, and employee shifts** to practice storing, accessing, updating, filtering, comparing, and processing collections.
 
 ## 📊 Data Analyst Connection
 
@@ -59,7 +77,7 @@ Tuples         ✅
    ↓
 Dictionaries   ✅
    ↓
-Sets           ⏳
+Sets           ✅
 ```
 
 ## 🚀 Progress
@@ -68,7 +86,20 @@ Sets           ⏳
 Lists              ✅ Completed
 Tuples             ✅ Completed
 Dictionaries       ✅ Completed
-Sets               🔄 Next
+Sets               ✅ Completed
+```
+
+## 🎯 Data Structures Status
+
+```text
+╔══════════════════════════════════╗
+║     PYTHON DATA STRUCTURES       ║
+╠══════════════════════════════════╣
+║ Lists          → ✅ Completed    ║
+║ Tuples         → ✅ Completed    ║
+║ Dictionaries   → ✅ Completed    ║
+║ Sets           → ✅ Completed    ║
+╚══════════════════════════════════╝
 ```
 
 ## 👨‍💻 Author
